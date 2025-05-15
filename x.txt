@@ -1,0 +1,45 @@
+{resp: {soft_list: [,…], retCode: 0}}
+resp: {soft_list: [,…], retCode: 0}
+retCode: 0
+soft_list: [,…]
+0: {soft_id: 32414, os_type: 498, os_bit: 3, display_name: "百度网盘", nick_ver: "", ver_name: "7.50.0.132",…}
+Logo48File: "//pc3.gtimg.com/softmgr/logo/48/56606_48_1551408704.png"
+display_name: "百度网盘"
+download_https_url: "https://sw.pcmgr.qq.com/aba82d8b2b86e49709e4f895a907923c/68255ebf/spcmgr/download/BaiduNetdisk_txgj1_7.50.0.132.exe"
+download_url: "https://sw.pcmgr.qq.com/aba82d8b2b86e49709e4f895a907923c/68255ebf/spcmgr/download/BaiduNetdisk_txgj1_7.50.0.132.exe"
+file_name: "BaiduNetdisk_txgj1_7.50.0.132.exe"
+file_size: "403338840"
+nick_ver: ""
+os_bit: 3
+os_type: 498
+publish_date: "2024-12-30"
+soft_id: 32414
+ver_name: "7.50.0.132"
+
+
+
+https://luban.m.qq.com/api/public/software-manager/softwareProxy
+
+post
+
+
+选取item中得到s  s为id，post到链接
+Office安装助手
+
+        {"s": 36464, "c": 12, "p": 0, 
+        "sn": "Office安装助手", 
+        "num": 1000000, 
+        "lg": "//pc3.gtimg.com/softmgr/logo/48/36464_48_1734340518.png", 
+        "ver": "2.1", "fs": "1.39 MB", "url": "", "star": 0, "ux": null,
+        "tx": 0, "fe": "Office 办公套件一键安装", "detailUrl": "/detail/4/detail_36464.html"}
+
+
+        cmdid=3318
+            jprxReq[req][soft_id_list][]: 36464
+
+
+
+
+无限卵卵
+    cmdid: 3318
+jprxReq[req][soft_id_list][]: 36806

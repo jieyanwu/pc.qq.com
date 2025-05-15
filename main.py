@@ -30,18 +30,38 @@ import requests
 import json
 import concurrent.futures
 
+
+ua = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67'
+}
 BASE_URL = 'https://luban.m.qq.com/api/public/softReportApi/getSoftList'
 dic = []
 
 def fetch_data(offset):
     url = f"{BASE_URL}?c=0&sort=0&offset={offset}&limit=30"
     print(f"当前获取尾: {offset}")
-    response = requests.get(url)
+    response = requests.get(url,headers=ua)
     if response.status_code == 200:
         return response.json().get("list", [])
     else:
         print(f"获取失败 {offset}")
         return []
+
+def download(sid):
+    url = "https://luban.m.qq.com/api/public/software-manager/softwareProxy"
+    data = {
+        "cmdid":3318,
+        "jprxReq[req][soft_id_list][]":sid
+    }
+    res = requests.post(url,headers=ua,data=data)
+    print(res.status_code)
+    if res.status_code == 200:
+        print(res.json())
+    else:
+        return res.json()
+    
+    
+
 
 def main():
     offsets = [i for i in range(30, 31931, 30)]  # Generate offsets from 30 to 900 in steps of 30
