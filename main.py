@@ -46,7 +46,9 @@ def download(sid):
 
 def main():
     # 设置偏移量（测试范围缩小为 30~120）
-    offsets = [i for i in range(30, 999, 30)]
+    ranges = input("输入范围，尽量为30倍数：")
+    offsets = [i for i in range(30, int(ranges), 30)]
+    print(f"偏移量: {offsets}")
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
         # 并发抓取主列表数据
@@ -60,17 +62,17 @@ def main():
         sids = [item["s"] for item in dic if "s" in item]
 
         # 并发下载每个软件信息
-        download_results = list(executor.map(download, sids))
+        download_results = list(executor.map(download, sids)) 
 
     # 保存主数据到 data.json
-    with open("data.json", "w", encoding="utf-8") as f:
+    with open("data/data.json", "w", encoding="utf-8") as f:
         json.dump(dic, f, ensure_ascii=False, indent=2)
 
     # 保存下载结果到 exedata.json
-    with open("exedata.json", "w", encoding="utf-8") as f:
+    with open("data/exedata.json", "w", encoding="utf-8") as f:
         json.dump(download_results, f, ensure_ascii=False, indent=2)
 
-    print("✅ 所有任务完成，结果已写入 data.json 和 exedata.json")
+    print("✅ 所有任务完成，结果已写入 data/data.json 和 data/exedata.json")
 
 if __name__ == "__main__":
     main()

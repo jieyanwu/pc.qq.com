@@ -6,7 +6,7 @@
 ### 功能说明
 
 - 批量抓取腾讯软件管家开放API的主列表数据
-- 并发POST调用接口获取每个软件的详细信息
+- 获取并调用接口获取每个软件的详细信息
 - 结果分别保存为 `data/data.json` 和 `data/exedata.json`
 
 ### 主要脚本
@@ -29,7 +29,7 @@
 
 1. 安装依赖
     ```sh
-    pip install requests
+    pip install requests -r requirements.txt
     ```
 
 2. 运行主脚本
@@ -37,42 +37,9 @@
     python main.py
     ```
 
-3. 结果文件
+3. 结果文件保存到data目录下
     - `data.json`：主列表数据
     - `exedata.json`：每个软件详细信息
-
----
-
-## 二、双人贪吃蛇对战游戏
-
-### 功能说明
-
-- 基于pygame实现的本地双人贪吃蛇对战
-- 支持加速、无敌等特殊道具
-- 分数与胜负判定
-
-### 主要脚本
-
-- [`gogeme/tcs.py`](gogeme/tcs.py)
-
-### 快速开始
-
-1. 安装依赖
-    ```sh
-    pip install pygame
-    ```
-
-2. 运行游戏
-    ```sh
-    python gogeme/tcs.py
-    ```
-
-3. 操作说明
-
-    - 玩家1（绿色）：WASD 控制
-    - 玩家2（紫色）：方向键控制
-    - R键：游戏结束后重新开始
-    - ESC：退出游戏
 
 ---
 
