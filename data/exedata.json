@@ -3,48 +3,6 @@
     "resp": {
       "soft_list": [
         {
-          "soft_id": 35813,
-          "os_type": 496,
-          "os_bit": 3,
-          "display_name": "OurPlay加速器模拟器二合一",
-          "nick_ver": "",
-          "ver_name": "2.3.9259.21570",
-          "file_size": "130614096",
-          "file_name": "OurPlaySetup-2.3.9259.21570-beta-910008-2.exe",
-          "publish_date": "2025-05-14",
-          "download_url": "https://sw.pcmgr.qq.com/11e3f7a47ca0f7038f17c628f4dff752/6829604b/spcmgr/download/OurPlaySetup-2.3.9259.21570-beta-910008-2.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/11e3f7a47ca0f7038f17c628f4dff752/6829604b/spcmgr/download/OurPlaySetup-2.3.9259.21570-beta-910008-2.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/35473_48_1709539865.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 36464,
-          "os_type": 496,
-          "os_bit": 3,
-          "display_name": "Office安装助手",
-          "nick_ver": "",
-          "ver_name": "2.1.0",
-          "file_size": "1457544",
-          "file_name": "office_install_assistant_2.1.0_g7123x0y.exe",
-          "publish_date": "2024-12-16",
-          "download_url": "https://sw.pcmgr.qq.com/e53f8d5df1110f62e3606bc5a4e77e37/6829604b/spcmgr/download/office_install_assistant_2.1.0_g7123x0y.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/e53f8d5df1110f62e3606bc5a4e77e37/6829604b/spcmgr/download/office_install_assistant_2.1.0_g7123x0y.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/36464_48_1734340518.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
           "soft_id": 8033,
           "os_type": 506,
           "os_bit": 3,
@@ -54,8 +12,8 @@
           "file_size": "118589024",
           "file_name": "QQGame_5.82.58574.0_silent_1001010001_cid0_0326.exe",
           "publish_date": "2025-03-26",
-          "download_url": "https://sw.pcmgr.qq.com/04aa9f455662d48605eae2945bf16d4a/6829604b/spcmgr/download/QQGame_5.82.58574.0_silent_1001010001_cid0_0326.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/04aa9f455662d48605eae2945bf16d4a/6829604b/spcmgr/download/QQGame_5.82.58574.0_silent_1001010001_cid0_0326.exe",
+          "download_url": "https://sw.pcmgr.qq.com/2bf93c38ad7f528949db01b6b71c4838/68368b0b/spcmgr/download/QQGame_5.82.58574.0_silent_1001010001_cid0_0326.exe",
+          "download_https_url": "https://sw.pcmgr.qq.com/2bf93c38ad7f528949db01b6b71c4838/68368b0b/spcmgr/download/QQGame_5.82.58574.0_silent_1001010001_cid0_0326.exe",
           "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/8033_48_1723789928.png"
         }
       ],
@@ -75,8 +33,8 @@
           "file_size": "4938616",
           "file_name": "ZDataRecovery_2.2.2.4_dashi.exe",
           "publish_date": "2025-05-15",
-          "download_url": "https://sw.pcmgr.qq.com/28269e249023ff8e535e536ec9d6ad28/6829604b/spcmgr/download/ZDataRecovery_2.2.2.4_dashi.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/28269e249023ff8e535e536ec9d6ad28/6829604b/spcmgr/download/ZDataRecovery_2.2.2.4_dashi.exe",
+          "download_url": "https://sw.pcmgr.qq.com/854bac8ee6460596f5d133740c0469e3/68368b0b/spcmgr/download/ZDataRecovery_2.2.2.4_dashi.exe",
+          "download_https_url": "https://sw.pcmgr.qq.com/854bac8ee6460596f5d133740c0469e3/68368b0b/spcmgr/download/ZDataRecovery_2.2.2.4_dashi.exe",
           "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/24524_48_1747310077.png"
         }
       ],
@@ -87,18 +45,123 @@
     "resp": {
       "soft_list": [
         {
-          "soft_id": 32412,
+          "soft_id": 34613,
+          "os_type": 506,
+          "os_bit": 3,
+          "display_name": "优酷PC客户端",
+          "nick_ver": "",
+          "ver_name": "9.2.62.1003",
+          "file_size": "245360920",
+          "file_name": "youkuclient_setup_9.2.62.1003.exe",
+          "publish_date": "2025-04-21",
+          "download_url": "https://sw.pcmgr.qq.com/0465b18681e83df7dbf8dd2ab7454247/68368b0b/spcmgr/download/youkuclient_setup_9.2.62.1003.exe",
+          "download_https_url": "https://sw.pcmgr.qq.com/0465b18681e83df7dbf8dd2ab7454247/68368b0b/spcmgr/download/youkuclient_setup_9.2.62.1003.exe",
+          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/34613_48_1708593692.png"
+        }
+      ],
+      "retCode": 0
+    }
+  },
+  {
+    "resp": {
+      "soft_list": [
+        {
+          "soft_id": 35813,
           "os_type": 496,
           "os_bit": 3,
-          "display_name": "浩辰CAD看图王",
+          "display_name": "OurPlay加速器模拟器二合一",
           "nick_ver": "",
-          "ver_name": "9.0.0.0",
-          "file_size": "104508352",
-          "file_name": "DWG FastView(CN-20)_x64_20_9.0.exe",
-          "publish_date": "2025-04-30",
-          "download_url": "https://sw.pcmgr.qq.com/41054160225992b1bc986719f536dfd9/6829604b/spcmgr/download/DWG%20FastView(CN-20)_x64_20_9.0.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/41054160225992b1bc986719f536dfd9/6829604b/spcmgr/download/DWG%20FastView(CN-20)_x64_20_9.0.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/24359_48_1537339994.png"
+          "ver_name": "2.3.9270.36465",
+          "file_size": "132133688",
+          "file_name": "OurPlaySetup-2.3.9270.36465-beta-910008-2.exe",
+          "publish_date": "2025-05-22",
+          "download_url": "https://sw.pcmgr.qq.com/a3d71bd483354cd3d1a25a10a8e73d76/68368b0b/spcmgr/download/OurPlaySetup-2.3.9270.36465-beta-910008-2.exe",
+          "download_https_url": "https://sw.pcmgr.qq.com/a3d71bd483354cd3d1a25a10a8e73d76/68368b0b/spcmgr/download/OurPlaySetup-2.3.9270.36465-beta-910008-2.exe",
+          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/35473_48_1709539865.png"
+        }
+      ],
+      "retCode": 0
+    }
+  },
+  {
+    "resp": {
+      "soft_list": [
+        {
+          "soft_id": 36464,
+          "os_type": 496,
+          "os_bit": 3,
+          "display_name": "Office安装助手",
+          "nick_ver": "",
+          "ver_name": "2.1.0",
+          "file_size": "1457544",
+          "file_name": "office_install_assistant_2.1.0_g7123x0y.exe",
+          "publish_date": "2024-12-16",
+          "download_url": "https://sw.pcmgr.qq.com/d58e3ea43da4a2511c19087d7f31a451/68368b0b/spcmgr/download/office_install_assistant_2.1.0_g7123x0y.exe",
+          "download_https_url": "https://sw.pcmgr.qq.com/d58e3ea43da4a2511c19087d7f31a451/68368b0b/spcmgr/download/office_install_assistant_2.1.0_g7123x0y.exe",
+          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/36464_48_1734340518.png"
+        }
+      ],
+      "retCode": 0
+    }
+  },
+  {
+    "resp": {
+      "soft_list": [
+        {
+          "soft_id": 36497,
+          "os_type": 384,
+          "os_bit": 3,
+          "display_name": "暗区突围：无限",
+          "nick_ver": "",
+          "ver_name": "6.4",
+          "file_size": "14338168",
+          "file_name": "ABIMiniLoader.6.4.22.2257.19000149.exe",
+          "publish_date": "2025-04-27",
+          "download_url": "https://sw.pcmgr.qq.com/155cc4daa0b4d72cf000aee84834f8a3/68368b0b/spcmgr/download/ABIMiniLoader.6.4.22.2257.19000149.exe",
+          "download_https_url": "https://sw.pcmgr.qq.com/155cc4daa0b4d72cf000aee84834f8a3/68368b0b/spcmgr/download/ABIMiniLoader.6.4.22.2257.19000149.exe",
+          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/36497_48_1745805216.png"
+        }
+      ],
+      "retCode": 0
+    }
+  },
+  {
+    "resp": {
+      "soft_list": [
+        {
+          "soft_id": 33779,
+          "os_type": 384,
+          "os_bit": 3,
+          "display_name": "尘白禁区",
+          "nick_ver": "",
+          "ver_name": "1.1.73.0",
+          "file_size": "77751632",
+          "file_name": "Snow_Setup.TXGJ_1.1.73.0.exe",
+          "publish_date": "2025-05-23",
+          "download_url": "https://sw.pcmgr.qq.com/62b352ceec998f9e82304f04f14c9897/68368b0b/spcmgr/download/Snow_Setup.TXGJ_1.1.73.0.exe",
+          "download_https_url": "https://sw.pcmgr.qq.com/62b352ceec998f9e82304f04f14c9897/68368b0b/spcmgr/download/Snow_Setup.TXGJ_1.1.73.0.exe",
+          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/33779_48_1694748906.png"
+        }
+      ],
+      "retCode": 0
+    }
+  },
+  {
+    "resp": {
+      "soft_list": [
+        {
+          "soft_id": 36065,
+          "os_type": 496,
+          "os_bit": 3,
+          "display_name": "梦幻西游：时空",
+          "nick_ver": "",
+          "ver_name": "1.479.0",
+          "file_size": "4032574384",
+          "file_name": "MY_M-1.479.0_mj41004_swjoy_cpa_dev.exe",
+          "publish_date": "2025-04-02",
+          "download_url": "https://sw.pcmgr.qq.com/7087440d23ac713ef3274ede909860f2/68368b0b/spcmgr/download/MY_M-1.479.0_mj41004_swjoy_cpa_dev.exe",
+          "download_https_url": "https://sw.pcmgr.qq.com/7087440d23ac713ef3274ede909860f2/68368b0b/spcmgr/download/MY_M-1.479.0_mj41004_swjoy_cpa_dev.exe",
+          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/36065_48_1743579731.png"
         }
       ],
       "retCode": 0
@@ -117,8 +180,8 @@
           "file_size": "105476392",
           "file_name": "dr_setup_2025.4.16.20183_1020_4_2.exe",
           "publish_date": "2025-04-17",
-          "download_url": "https://sw.pcmgr.qq.com/178a11d8b5015f18586a5934530108c7/6829604c/spcmgr/download/dr_setup_2025.4.16.20183_1020_4_2.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/178a11d8b5015f18586a5934530108c7/6829604c/spcmgr/download/dr_setup_2025.4.16.20183_1020_4_2.exe",
+          "download_url": "https://sw.pcmgr.qq.com/628095f193f4917bde63727fe2b0ebf1/68368b0b/spcmgr/download/dr_setup_2025.4.16.20183_1020_4_2.exe",
+          "download_https_url": "https://sw.pcmgr.qq.com/628095f193f4917bde63727fe2b0ebf1/68368b0b/spcmgr/download/dr_setup_2025.4.16.20183_1020_4_2.exe",
           "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/36073_48_1723538527.png"
         }
       ],
@@ -138,8 +201,8 @@
           "file_size": "18421864",
           "file_name": "sysfixmaster_inst(1).exe",
           "publish_date": "2025-02-11",
-          "download_url": "https://sw.pcmgr.qq.com/2219b9b9be63528fba94cee142de390f/6829604c/spcmgr/download/sysfixmaster_inst(1).exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/2219b9b9be63528fba94cee142de390f/6829604c/spcmgr/download/sysfixmaster_inst(1).exe",
+          "download_url": "https://sw.pcmgr.qq.com/ca33cf913a25a47176503a9e47e46a39/68368b0b/spcmgr/download/sysfixmaster_inst(1).exe",
+          "download_https_url": "https://sw.pcmgr.qq.com/ca33cf913a25a47176503a9e47e46a39/68368b0b/spcmgr/download/sysfixmaster_inst(1).exe",
           "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/36306_48_1732005184.png"
         }
       ],
@@ -159,9 +222,51 @@
           "file_size": "206757944",
           "file_name": "NGP_NSHM_3.0.3713_txgjCPA.exe",
           "publish_date": "2025-04-25",
-          "download_url": "https://sw.pcmgr.qq.com/f527e19ec80aa8e86adbbce919b3688e/6829604c/spcmgr/download/NGP_NSHM_3.0.3713_txgjCPA.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/f527e19ec80aa8e86adbbce919b3688e/6829604c/spcmgr/download/NGP_NSHM_3.0.3713_txgjCPA.exe",
+          "download_url": "https://sw.pcmgr.qq.com/bb5d2e7dcd0aa080c0489e65d59507d9/68368b0b/spcmgr/download/NGP_NSHM_3.0.3713_txgjCPA.exe",
+          "download_https_url": "https://sw.pcmgr.qq.com/bb5d2e7dcd0aa080c0489e65d59507d9/68368b0b/spcmgr/download/NGP_NSHM_3.0.3713_txgjCPA.exe",
           "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/36799_48_1745569083.png"
+        }
+      ],
+      "retCode": 0
+    }
+  },
+  {
+    "resp": {
+      "soft_list": [
+        {
+          "soft_id": 36848,
+          "os_type": 496,
+          "os_bit": 3,
+          "display_name": "转转大师数据修复软件",
+          "nick_ver": "",
+          "ver_name": "2.2.2.7",
+          "file_size": "191877496",
+          "file_name": "ZDataRepair_2.2.2.7_tx(1).exe",
+          "publish_date": "2025-05-20",
+          "download_url": "https://sw.pcmgr.qq.com/002be3abd0960727e07a4d8a44187ad6/68368b0b/spcmgr/download/ZDataRepair_2.2.2.7_tx(1).exe",
+          "download_https_url": "https://sw.pcmgr.qq.com/002be3abd0960727e07a4d8a44187ad6/68368b0b/spcmgr/download/ZDataRepair_2.2.2.7_tx(1).exe",
+          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/36745_48_1744170547.png"
+        }
+      ],
+      "retCode": 0
+    }
+  },
+  {
+    "resp": {
+      "soft_list": [
+        {
+          "soft_id": 32412,
+          "os_type": 496,
+          "os_bit": 3,
+          "display_name": "浩辰CAD看图王",
+          "nick_ver": "",
+          "ver_name": "9.0.0.0",
+          "file_size": "104508352",
+          "file_name": "DWG FastView(CN-20)_x64_20_9.0.exe",
+          "publish_date": "2025-04-30",
+          "download_url": "https://sw.pcmgr.qq.com/d212a22a2a880af23eb8d25f99b62046/68368b0b/spcmgr/download/DWG%20FastView(CN-20)_x64_20_9.0.exe",
+          "download_https_url": "https://sw.pcmgr.qq.com/d212a22a2a880af23eb8d25f99b62046/68368b0b/spcmgr/download/DWG%20FastView(CN-20)_x64_20_9.0.exe",
+          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/24359_48_1537339994.png"
         }
       ],
       "retCode": 0
@@ -180,8 +285,8 @@
           "file_size": "3447336",
           "file_name": "RecoverSetup67_7.0.1.1.exe",
           "publish_date": "2023-10-30",
-          "download_url": "https://sw.pcmgr.qq.com/c4242c1fb7bf6c4edc236e0121c887cb/6829604c/spcmgr/download/RecoverSetup67_7.0.1.1.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/c4242c1fb7bf6c4edc236e0121c887cb/6829604c/spcmgr/download/RecoverSetup67_7.0.1.1.exe",
+          "download_url": "https://sw.pcmgr.qq.com/b546e5ac3740a08198e2fddf14453e47/68368b0b/spcmgr/download/RecoverSetup67_7.0.1.1.exe",
+          "download_https_url": "https://sw.pcmgr.qq.com/b546e5ac3740a08198e2fddf14453e47/68368b0b/spcmgr/download/RecoverSetup67_7.0.1.1.exe",
           "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/21724_48_1684381735.png"
         }
       ],
@@ -201,8 +306,8 @@
           "file_size": "73579152",
           "file_name": "diguobaye.exe",
           "publish_date": "2024-12-26",
-          "download_url": "https://sw.pcmgr.qq.com/99aed8bd0004c5393fd5175645ac9427/6829604c/spcmgr/download/diguobaye.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/99aed8bd0004c5393fd5175645ac9427/6829604c/spcmgr/download/diguobaye.exe",
+          "download_url": "https://sw.pcmgr.qq.com/57025e65e75d9cff4c6d2b4e5d81a308/68368b0b/spcmgr/download/diguobaye.exe",
+          "download_https_url": "https://sw.pcmgr.qq.com/57025e65e75d9cff4c6d2b4e5d81a308/68368b0b/spcmgr/download/diguobaye.exe",
           "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/36515_48_1735201716.png"
         }
       ],
@@ -222,8 +327,8 @@
           "file_size": "227472616",
           "file_name": "QQ9.7.23.29392.exe",
           "publish_date": "2024-09-20",
-          "download_url": "https://sw.pcmgr.qq.com/c6ce6e32751423c2095362d78c1f8bc4/6829604c/spcmgr/download/QQ9.7.23.29392.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/c6ce6e32751423c2095362d78c1f8bc4/6829604c/spcmgr/download/QQ9.7.23.29392.exe",
+          "download_url": "https://sw.pcmgr.qq.com/0c1295386ac834380a641c049ffbe447/68368b0b/spcmgr/download/QQ9.7.23.29392.exe",
+          "download_https_url": "https://sw.pcmgr.qq.com/0c1295386ac834380a641c049ffbe447/68368b0b/spcmgr/download/QQ9.7.23.29392.exe",
           "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/2_48_1482283025.png"
         }
       ],
@@ -243,8 +348,8 @@
           "file_size": "133793144",
           "file_name": "xunyou89226557_7.0.0.372.exe",
           "publish_date": "2024-09-29",
-          "download_url": "https://sw.pcmgr.qq.com/bcc7dc4ffa6f9ddb2b2bcf209ddc8c37/6829604c/spcmgr/download/xunyou89226557_7.0.0.372.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/bcc7dc4ffa6f9ddb2b2bcf209ddc8c37/6829604c/spcmgr/download/xunyou89226557_7.0.0.372.exe",
+          "download_url": "https://sw.pcmgr.qq.com/f6107bf06136f46ed77566f3ec8bd0d9/68368b0b/spcmgr/download/xunyou89226557_7.0.0.372.exe",
+          "download_https_url": "https://sw.pcmgr.qq.com/f6107bf06136f46ed77566f3ec8bd0d9/68368b0b/spcmgr/download/xunyou89226557_7.0.0.372.exe",
           "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/2052_48_1658134595.png"
         }
       ],
@@ -260,12 +365,12 @@
           "os_bit": 3,
           "display_name": "腾讯手游助手",
           "nick_ver": "",
-          "ver_name": "3.70.3019.81",
-          "file_size": "3604120",
-          "file_name": "syzs_installer_1000222918_market (5).exe",
-          "publish_date": "2023-10-17",
-          "download_url": "https://sw.pcmgr.qq.com/7ef39d05701aa8909ae6064b6c9cf30d/6829604c/spcmgr/download/syzs_installer_1000222918_market%20(5).exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/7ef39d05701aa8909ae6064b6c9cf30d/6829604c/spcmgr/download/syzs_installer_1000222918_market%20(5).exe",
+          "ver_name": "6.0.242.0",
+          "file_size": "7520312",
+          "file_name": "syzs__installer.exe",
+          "publish_date": "2025-05-26",
+          "download_url": "https://sw.pcmgr.qq.com/57c98c0123067eb9745c625963b26028/68368b0b/spcmgr/download/syzs__installer.exe",
+          "download_https_url": "https://sw.pcmgr.qq.com/57c98c0123067eb9745c625963b26028/68368b0b/spcmgr/download/syzs__installer.exe",
           "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/22095_48_1637131201.png"
         }
       ],
@@ -285,8 +390,8 @@
           "file_size": "68180472",
           "file_name": "DriveTheLife_36968_8_16_58_120.exe",
           "publish_date": "2025-03-07",
-          "download_url": "https://sw.pcmgr.qq.com/f01094a64d791040ddad698d219f9473/6829604c/spcmgr/download/DriveTheLife_36968_8_16_58_120.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/f01094a64d791040ddad698d219f9473/6829604c/spcmgr/download/DriveTheLife_36968_8_16_58_120.exe",
+          "download_url": "https://sw.pcmgr.qq.com/6efc3892affc36efedbfbd0cb5ae2eeb/68368b0b/spcmgr/download/DriveTheLife_36968_8_16_58_120.exe",
+          "download_https_url": "https://sw.pcmgr.qq.com/6efc3892affc36efedbfbd0cb5ae2eeb/68368b0b/spcmgr/download/DriveTheLife_36968_8_16_58_120.exe",
           "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/35639_48_1711596877.png"
         }
       ],
@@ -306,8 +411,8 @@
           "file_size": "110018880",
           "file_name": "CloudGame_tencent_setup_pc_x64_1.6.9.0692.exe",
           "publish_date": "2025-01-22",
-          "download_url": "https://sw.pcmgr.qq.com/c9554201d8ee4a2c488f8cab317c5702/6829604d/spcmgr/download/CloudGame_tencent_setup_pc_x64_1.6.9.0692.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/c9554201d8ee4a2c488f8cab317c5702/6829604d/spcmgr/download/CloudGame_tencent_setup_pc_x64_1.6.9.0692.exe",
+          "download_url": "https://sw.pcmgr.qq.com/0b498a3334128e526ce162ce78c9e045/68368b0b/spcmgr/download/CloudGame_tencent_setup_pc_x64_1.6.9.0692.exe",
+          "download_https_url": "https://sw.pcmgr.qq.com/0b498a3334128e526ce162ce78c9e045/68368b0b/spcmgr/download/CloudGame_tencent_setup_pc_x64_1.6.9.0692.exe",
           "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/36575_48_1737537409.png"
         }
       ],
@@ -327,30 +432,9 @@
           "file_size": "103531416",
           "file_name": "InfinityNikki Launcher_1.2.1.exe",
           "publish_date": "2025-04-27",
-          "download_url": "https://sw.pcmgr.qq.com/4f7d746be9a1c44a69743f8bdf853b84/6829604d/spcmgr/download/InfinityNikki%20Launcher_1.2.1.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/4f7d746be9a1c44a69743f8bdf853b84/6829604d/spcmgr/download/InfinityNikki%20Launcher_1.2.1.exe",
+          "download_url": "https://sw.pcmgr.qq.com/d583bcb786b43075fe09f8d42a79ba65/68368b0b/spcmgr/download/InfinityNikki%20Launcher_1.2.1.exe",
+          "download_https_url": "https://sw.pcmgr.qq.com/d583bcb786b43075fe09f8d42a79ba65/68368b0b/spcmgr/download/InfinityNikki%20Launcher_1.2.1.exe",
           "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/36806_48_1745741680.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 11167,
-          "os_type": 506,
-          "os_bit": 3,
-          "display_name": "网易云音乐",
-          "nick_ver": "",
-          "ver_name": "3.1.8.203715",
-          "file_size": "153548656",
-          "file_name": "NeteaseCloudMusic_Music_official_3.1.8.203715_64.exe",
-          "publish_date": "2025-04-29",
-          "download_url": "https://sw.pcmgr.qq.com/9d4b2f363945899353f07cc5c56aefaa/6829604d/spcmgr/download/NeteaseCloudMusic_Music_official_3.1.8.203715_64.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/9d4b2f363945899353f07cc5c56aefaa/6829604d/spcmgr/download/NeteaseCloudMusic_Music_official_3.1.8.203715_64.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/11167_48_1483600915.png"
         }
       ],
       "retCode": 0
@@ -365,12 +449,12 @@
           "os_bit": 3,
           "display_name": "芒果TV",
           "nick_ver": "",
-          "ver_name": "6.8.20.0",
-          "file_size": "88067872",
-          "file_name": "mgtv-client-6.8.2.0-1234-2.exe",
+          "ver_name": "6.8.4.0",
+          "file_size": "87102960",
+          "file_name": "mgtv-client-6.8.4.0-1234-2.exe",
           "publish_date": "2025-01-23",
-          "download_url": "https://sw.pcmgr.qq.com/681a19fa752893e2a14a1ec1288687a3/6829604d/spcmgr/download/mgtv-client-6.8.2.0-1234-2.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/681a19fa752893e2a14a1ec1288687a3/6829604d/spcmgr/download/mgtv-client-6.8.2.0-1234-2.exe",
+          "download_url": "https://sw.pcmgr.qq.com/0369b0cde442befa7ccab1f6325b4a7d/68368b0b/spcmgr/download/mgtv-client-6.8.4.0-1234-2.exe",
+          "download_https_url": "https://sw.pcmgr.qq.com/0369b0cde442befa7ccab1f6325b4a7d/68368b0b/spcmgr/download/mgtv-client-6.8.4.0-1234-2.exe",
           "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/31865_48_1686555263.png"
         }
       ],
@@ -390,8 +474,8 @@
           "file_size": "108616168",
           "file_name": "upupoo-installer_20240612081_(1).exe",
           "publish_date": "2025-03-14",
-          "download_url": "https://sw.pcmgr.qq.com/445e49a90d3950664d41219aefe029f8/6829604e/spcmgr/download/upupoo-installer_20240612081_(1).exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/445e49a90d3950664d41219aefe029f8/6829604e/spcmgr/download/upupoo-installer_20240612081_(1).exe",
+          "download_url": "https://sw.pcmgr.qq.com/ba6a73032041942a39b99e1d817f72ae/68368b0b/spcmgr/download/upupoo-installer_20240612081_(1).exe",
+          "download_https_url": "https://sw.pcmgr.qq.com/ba6a73032041942a39b99e1d817f72ae/68368b0b/spcmgr/download/upupoo-installer_20240612081_(1).exe",
           "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/23459_48_1675046756.png"
         }
       ],
@@ -407,12 +491,12 @@
           "os_bit": 3,
           "display_name": "迅读PDF大师",
           "nick_ver": "",
-          "ver_name": "3.3.5.1",
-          "file_size": "20516864",
-          "file_name": "XDInstaller_3.3.5.1_lxtx.exe",
-          "publish_date": "2025-01-07",
-          "download_url": "https://sw.pcmgr.qq.com/8888cc3d5291ee487dce56e12f658acd/6829604e/spcmgr/download/XDInstaller_3.3.5.1_lxtx.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/8888cc3d5291ee487dce56e12f658acd/6829604e/spcmgr/download/XDInstaller_3.3.5.1_lxtx.exe",
+          "ver_name": "3.3.7.7",
+          "file_size": "21268480",
+          "file_name": "XDInstaller_3.3.7.7_lxtx.exe",
+          "publish_date": "2025-05-21",
+          "download_url": "https://sw.pcmgr.qq.com/53cb7a6df291c41ca3ac2791c836c1f6/68368b0b/spcmgr/download/XDInstaller_3.3.7.7_lxtx.exe",
+          "download_https_url": "https://sw.pcmgr.qq.com/53cb7a6df291c41ca3ac2791c836c1f6/68368b0b/spcmgr/download/XDInstaller_3.3.7.7_lxtx.exe",
           "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/23895_48_1664160470.ico"
         }
       ],
@@ -423,18 +507,18 @@
     "resp": {
       "soft_list": [
         {
-          "soft_id": 36197,
-          "os_type": 496,
+          "soft_id": 11167,
+          "os_type": 506,
           "os_bit": 3,
-          "display_name": "小满壁纸",
+          "display_name": "网易云音乐",
           "nick_ver": "",
-          "ver_name": "1.0.0.0",
-          "file_size": "71702480",
-          "file_name": "XiaoMan-Installer_620230929005_.exe",
-          "publish_date": "2024-11-12",
-          "download_url": "https://sw.pcmgr.qq.com/6d326562a195310b04024d8ced46adf4/6829604d/spcmgr/download/XiaoMan-Installer_620230929005_.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/6d326562a195310b04024d8ced46adf4/6829604d/spcmgr/download/XiaoMan-Installer_620230929005_.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/34718_48_1702022794.png"
+          "ver_name": "3.1.9.203872",
+          "file_size": "153473872",
+          "file_name": "NeteaseCloudMusic_Music_official_3.1.9.203872_64.exe",
+          "publish_date": "2025-04-29",
+          "download_url": "https://sw.pcmgr.qq.com/81ede1e648b0a0d87579385d7049fd61/68368b0b/spcmgr/download/NeteaseCloudMusic_Music_official_3.1.9.203872_64.exe",
+          "download_https_url": "https://sw.pcmgr.qq.com/81ede1e648b0a0d87579385d7049fd61/68368b0b/spcmgr/download/NeteaseCloudMusic_Music_official_3.1.9.203872_64.exe",
+          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/11167_48_1483600915.png"
         }
       ],
       "retCode": 0
@@ -453,8 +537,8 @@
           "file_size": "124174272",
           "file_name": "kugou7_1173_20.0.41.27197.exe",
           "publish_date": "2025-04-21",
-          "download_url": "https://sw.pcmgr.qq.com/2d72b15a5d7b98df54ac710006648761/6829604d/spcmgr/download/kugou7_1173_20.0.41.27197.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/2d72b15a5d7b98df54ac710006648761/6829604d/spcmgr/download/kugou7_1173_20.0.41.27197.exe",
+          "download_url": "https://sw.pcmgr.qq.com/03f9ce0c006823ba98a0d1ff44bc3902/68368b0c/spcmgr/download/kugou7_1173_20.0.41.27197.exe",
+          "download_https_url": "https://sw.pcmgr.qq.com/03f9ce0c006823ba98a0d1ff44bc3902/68368b0c/spcmgr/download/kugou7_1173_20.0.41.27197.exe",
           "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/4514_48_1686904220.png"
         }
       ],
@@ -474,8 +558,8 @@
           "file_size": "90491744",
           "file_name": "JGPDFV6.69.3(1).exe",
           "publish_date": "2024-07-17",
-          "download_url": "https://sw.pcmgr.qq.com/186e6540a0e40590e97de7fa5477f4e8/6829604d/spcmgr/download/JGPDFV6.69.3(1).exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/186e6540a0e40590e97de7fa5477f4e8/6829604d/spcmgr/download/JGPDFV6.69.3(1).exe",
+          "download_url": "https://sw.pcmgr.qq.com/95e37c129f6dc16b2ca6b48b08769ea7/68368b0c/spcmgr/download/JGPDFV6.69.3(1).exe",
+          "download_https_url": "https://sw.pcmgr.qq.com/95e37c129f6dc16b2ca6b48b08769ea7/68368b0c/spcmgr/download/JGPDFV6.69.3(1).exe",
           "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/25235_48_1698223669.png"
         }
       ],
@@ -495,8 +579,8 @@
           "file_size": "390510656",
           "file_name": "7.6.55-Release.250326009.exe",
           "publish_date": "2025-03-27",
-          "download_url": "https://sw.pcmgr.qq.com/acb495951ac986af607ec7b910665e3b/6829604e/spcmgr/download/7.6.55-Release.250326009.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/acb495951ac986af607ec7b910665e3b/6829604e/spcmgr/download/7.6.55-Release.250326009.exe",
+          "download_url": "https://sw.pcmgr.qq.com/a53523801d12eb28b6d0fac209eaf7b6/68368b0c/spcmgr/download/7.6.55-Release.250326009.exe",
+          "download_https_url": "https://sw.pcmgr.qq.com/a53523801d12eb28b6d0fac209eaf7b6/68368b0c/spcmgr/download/7.6.55-Release.250326009.exe",
           "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/26980_48_1610695420.png"
         }
       ],
@@ -507,39 +591,18 @@
     "resp": {
       "soft_list": [
         {
-          "soft_id": 26218,
+          "soft_id": 36197,
           "os_type": 496,
-          "os_bit": 2,
-          "display_name": "腾讯会议",
-          "nick_ver": "",
-          "ver_name": "3.33.3.413",
-          "file_size": "224658696",
-          "file_name": "TencentMeeting_0300000000_3.33.3.413_x86_64.publish.officialwebsite.exe",
-          "publish_date": "2025-05-06",
-          "download_url": "https://sw.pcmgr.qq.com/1507f58a78d1862d532f5e1c729b81b5/6829604e/spcmgr/download/TencentMeeting_0300000000_3.33.3.413_x86_64.publish.officialwebsite.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/1507f58a78d1862d532f5e1c729b81b5/6829604e/spcmgr/download/TencentMeeting_0300000000_3.33.3.413_x86_64.publish.officialwebsite.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/26218_48_1579089719.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 26746,
-          "os_type": 506,
           "os_bit": 3,
-          "display_name": "原神",
-          "nick_ver": "5.5",
-          "ver_name": "1.5.2.229",
-          "file_size": "192527688",
-          "file_name": "yuanshen_setup_202503072018.exe",
-          "publish_date": "2025-04-28",
-          "download_url": "https://sw.pcmgr.qq.com/e35d95e9d46c99c665b06d45c9e0c2f7/6829604e/spcmgr/download/yuanshen_setup_202503072018.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/e35d95e9d46c99c665b06d45c9e0c2f7/6829604e/spcmgr/download/yuanshen_setup_202503072018.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/26746_48_1703210970.png"
+          "display_name": "小满壁纸",
+          "nick_ver": "",
+          "ver_name": "1.0.0.0",
+          "file_size": "71702480",
+          "file_name": "XiaoMan-Installer_620230929005_.exe",
+          "publish_date": "2024-11-12",
+          "download_url": "https://sw.pcmgr.qq.com/f0fad77a4cf0d7bc0f6c0074dd267957/68368b0c/spcmgr/download/XiaoMan-Installer_620230929005_.exe",
+          "download_https_url": "https://sw.pcmgr.qq.com/f0fad77a4cf0d7bc0f6c0074dd267957/68368b0c/spcmgr/download/XiaoMan-Installer_620230929005_.exe",
+          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/34718_48_1702022794.png"
         }
       ],
       "retCode": 0
@@ -558,1332 +621,9 @@
           "file_size": "43233200",
           "file_name": "CADView_v5.8.0_Tencent.exe",
           "publish_date": "2024-12-24",
-          "download_url": "https://sw.pcmgr.qq.com/23c629997cc3fcee04f9701e30c9dbc2/6829604e/spcmgr/download/CADView_v5.8.0_Tencent.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/23c629997cc3fcee04f9701e30c9dbc2/6829604e/spcmgr/download/CADView_v5.8.0_Tencent.exe",
+          "download_url": "https://sw.pcmgr.qq.com/a275896535f040c27afde84ccabff5b6/68368b0c/spcmgr/download/CADView_v5.8.0_Tencent.exe",
+          "download_https_url": "https://sw.pcmgr.qq.com/a275896535f040c27afde84ccabff5b6/68368b0c/spcmgr/download/CADView_v5.8.0_Tencent.exe",
           "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/35020_48_1703750933.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 36155,
-          "os_type": 496,
-          "os_bit": 3,
-          "display_name": "万龙觉醒",
-          "nick_ver": "",
-          "ver_name": "1.0.13.5",
-          "file_size": "7657016",
-          "file_name": "callofdragonscn_b2fb7925aa95e17a95ee8cf5ee3c17da.exe",
-          "publish_date": "2024-09-10",
-          "download_url": "https://sw.pcmgr.qq.com/bfa8ea3271c82800386ee371a93cade9/6829604e/spcmgr/download/callofdragonscn_b2fb7925aa95e17a95ee8cf5ee3c17da.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/bfa8ea3271c82800386ee371a93cade9/6829604e/spcmgr/download/callofdragonscn_b2fb7925aa95e17a95ee8cf5ee3c17da.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/36155_48_1725873375.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 36565,
-          "os_type": 496,
-          "os_bit": 3,
-          "display_name": "大掼蛋（手游电脑版）",
-          "nick_ver": "",
-          "ver_name": "3.70",
-          "file_size": "3606992",
-          "file_name": "syzs_installer_1000285594_dgd.exe",
-          "publish_date": "2025-01-15",
-          "download_url": "https://sw.pcmgr.qq.com/fdb87f20b6f96978884b76003bb30264/6829604e/spcmgr/download/syzs_installer_1000285594_dgd.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/fdb87f20b6f96978884b76003bb30264/6829604e/spcmgr/download/syzs_installer_1000285594_dgd.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/36565_48_1736934823.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 36685,
-          "os_type": 506,
-          "os_bit": 3,
-          "display_name": "虎先锋DLL修复软件",
-          "nick_ver": "",
-          "ver_name": "6.0.1.7",
-          "file_size": "37577992",
-          "file_name": "DLLRECOVERY_6.0.1.7_dashi.exe",
-          "publish_date": "2025-04-23",
-          "download_url": "https://sw.pcmgr.qq.com/a9f1fc1206507dd9a4158bba8009979d/6829604f/spcmgr/download/DLLRECOVERY_6.0.1.7_dashi.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/a9f1fc1206507dd9a4158bba8009979d/6829604f/spcmgr/download/DLLRECOVERY_6.0.1.7_dashi.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/36685_48_1741679369.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 36118,
-          "os_type": 496,
-          "os_bit": 3,
-          "display_name": "精灵壁纸",
-          "nick_ver": "",
-          "ver_name": "1.0.31",
-          "file_size": "86681152",
-          "file_name": "jinglingwp_setup_12_1_202503272220.exe",
-          "publish_date": "2025-04-08",
-          "download_url": "https://sw.pcmgr.qq.com/dcec68786f92646d36e1919c8e8d774e/6829604f/spcmgr/download/jinglingwp_setup_12_1_202503272220.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/dcec68786f92646d36e1919c8e8d774e/6829604f/spcmgr/download/jinglingwp_setup_12_1_202503272220.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/36118_48_1724662424.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 200,
-          "os_type": 506,
-          "os_bit": 3,
-          "display_name": "搜狗拼音输入法",
-          "nick_ver": "15.4",
-          "ver_name": "15.4.0.1909",
-          "file_size": "157438272",
-          "file_name": "_sogou_pinyin_15.4.0.1896_6989.exe",
-          "publish_date": "2025-05-16",
-          "download_url": "https://sw.pcmgr.qq.com/2d287d03594ca95c9447b4f528d296a7/6829604f/spcmgr/download/_sogou_pinyin_15.4.0.1896_6989.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/2d287d03594ca95c9447b4f528d296a7/6829604f/spcmgr/download/_sogou_pinyin_15.4.0.1896_6989.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/200_48_1421902088.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 23125,
-          "os_type": 496,
-          "os_bit": 3,
-          "display_name": "腾讯桌面整理",
-          "nick_ver": "",
-          "ver_name": "4.1.1600.127",
-          "file_size": "110154856",
-          "file_name": "DeskGo_4_1_1600_127_S15000.exe",
-          "publish_date": "2025-05-16",
-          "download_url": "https://sw.pcmgr.qq.com/e2f10d016e520e3687c76f6eede9b6a1/6829604f/spcmgr/download/DeskGo_4_1_1600_127_S15000.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/e2f10d016e520e3687c76f6eede9b6a1/6829604f/spcmgr/download/DeskGo_4_1_1600_127_S15000.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/23125_48_1479364559.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 30856,
-          "os_type": 496,
-          "os_bit": 3,
-          "display_name": "崩坏：星穹铁道",
-          "nick_ver": "",
-          "ver_name": "1.4.5.222",
-          "file_size": "192101864",
-          "file_name": "StarRail_setup_1.4.5.exe",
-          "publish_date": "2025-02-10",
-          "download_url": "https://sw.pcmgr.qq.com/2df9011d226a42f9ac95f3b29a8b4168/6829604f/spcmgr/download/StarRail_setup_1.4.5.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/2df9011d226a42f9ac95f3b29a8b4168/6829604f/spcmgr/download/StarRail_setup_1.4.5.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/30856_48_1723021534.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 2675,
-          "os_type": 506,
-          "os_bit": 2,
-          "display_name": "WinRAR",
-          "nick_ver": "7.00",
-          "ver_name": "7.00.0",
-          "file_size": "4106352",
-          "file_name": "winrar-x64-700scp.exe",
-          "publish_date": "2024-03-15",
-          "download_url": "https://sw.pcmgr.qq.com/d105d84895ae535a943b4993fada5d60/6829604f/spcmgr/download/winrar-x64-700scp.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/d105d84895ae535a943b4993fada5d60/6829604f/spcmgr/download/winrar-x64-700scp.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/2675_48_1719197318.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 22554,
-          "os_type": 506,
-          "os_bit": 3,
-          "display_name": "企业微信",
-          "nick_ver": "",
-          "ver_name": "4.1.36.6011",
-          "file_size": "531205848",
-          "file_name": "WeCom_4.1.36.6012.exe",
-          "publish_date": "2025-04-09",
-          "download_url": "https://sw.pcmgr.qq.com/b67b632b46c1be835f5d63ebd95ccd66/6829604f/spcmgr/download/WeCom_4.1.36.6012.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/b67b632b46c1be835f5d63ebd95ccd66/6829604f/spcmgr/download/WeCom_4.1.36.6012.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/22554_48_1591253397.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 34454,
-          "os_type": 496,
-          "os_bit": 3,
-          "display_name": "微信输入法",
-          "nick_ver": "",
-          "ver_name": "1.2.8.12",
-          "file_size": "160786496",
-          "file_name": "WeTypeSetup_1.2.8.12_17.exe",
-          "publish_date": "2025-01-21",
-          "download_url": "https://sw.pcmgr.qq.com/eb9f954dc60180d736507a29022cb518/6829604f/spcmgr/download/WeTypeSetup_1.2.8.12_17.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/eb9f954dc60180d736507a29022cb518/6829604f/spcmgr/download/WeTypeSetup_1.2.8.12_17.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/34454_48_1699945390.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 36532,
-          "os_type": 496,
-          "os_bit": 3,
-          "display_name": "龙域世界",
-          "nick_ver": "",
-          "ver_name": "0.0.3.0",
-          "file_size": "63536344",
-          "file_name": "lywd41.exe",
-          "publish_date": "2025-01-06",
-          "download_url": "https://sw.pcmgr.qq.com/8f0488e10e3ab5902128df06593e07d3/6829604f/spcmgr/download/lywd41.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/8f0488e10e3ab5902128df06593e07d3/6829604f/spcmgr/download/lywd41.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/36532_48_1736134693.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 36560,
-          "os_type": 496,
-          "os_bit": 3,
-          "display_name": "开天西游",
-          "nick_ver": "",
-          "ver_name": "12.5.24.517",
-          "file_size": "77970464",
-          "file_name": "Setup-zctxrg_ktwd.exe",
-          "publish_date": "2025-01-13",
-          "download_url": "https://sw.pcmgr.qq.com/dc769e5e3940c4fb0ff338703f06e59a/6829604f/spcmgr/download/Setup-zctxrg_ktwd.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/dc769e5e3940c4fb0ff338703f06e59a/6829604f/spcmgr/download/Setup-zctxrg_ktwd.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/36560_48_1736759791.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 10268,
-          "os_type": 504,
-          "os_bit": 3,
-          "display_name": "Bandizip",
-          "nick_ver": "",
-          "ver_name": "7.37.0.1",
-          "file_size": "7389104",
-          "file_name": "BANDIZIP-SETUP-STD-X64_7.37.0.1.EXE",
-          "publish_date": "2025-02-12",
-          "download_url": "https://sw.pcmgr.qq.com/9afa04a054b2c93093c2858e49df5573/6829604f/spcmgr/download/BANDIZIP-SETUP-STD-X64_7.37.0.1.EXE",
-          "download_https_url": "https://sw.pcmgr.qq.com/9afa04a054b2c93093c2858e49df5573/6829604f/spcmgr/download/BANDIZIP-SETUP-STD-X64_7.37.0.1.EXE",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/10268_48_1492393207.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 32416,
-          "os_type": 506,
-          "os_bit": 3,
-          "display_name": "雷神加速器",
-          "nick_ver": "",
-          "ver_name": "10.2.1.0",
-          "file_size": "130129352",
-          "file_name": "LeiGodSetup_houji1_10.2.1.0.exe",
-          "publish_date": "2025-03-18",
-          "download_url": "https://sw.pcmgr.qq.com/a9a6ebf720ded01046b3bc923a3037e6/6829604f/spcmgr/download/LeiGodSetup_houji1_10.2.1.0.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/a9a6ebf720ded01046b3bc923a3037e6/6829604f/spcmgr/download/LeiGodSetup_houji1_10.2.1.0.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/24660_48_1619686923.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 35919,
-          "os_type": 496,
-          "os_bit": 3,
-          "display_name": "龙脉",
-          "nick_ver": "",
-          "ver_name": "3.1.24.471",
-          "file_size": "77137152",
-          "file_name": "zctxdngj_lm3wd.exe",
-          "publish_date": "2024-06-28",
-          "download_url": "https://sw.pcmgr.qq.com/004aded39730d14afccc809359918032/68296050/spcmgr/download/zctxdngj_lm3wd.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/004aded39730d14afccc809359918032/68296050/spcmgr/download/zctxdngj_lm3wd.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/35919_48_1719545907.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 35920,
-          "os_type": 496,
-          "os_bit": 3,
-          "display_name": "黑色沙漠",
-          "nick_ver": "",
-          "ver_name": "1.0",
-          "file_size": "6689608",
-          "file_name": "WeGameMiniLoader.2001619.5.10.17.1742-302001619039.exe",
-          "publish_date": "2024-10-23",
-          "download_url": "https://sw.pcmgr.qq.com/b98b2eca01b58ceaeb897787ba587ce6/68296050/spcmgr/download/WeGameMiniLoader.2001619.5.10.17.1742-302001619039.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/b98b2eca01b58ceaeb897787ba587ce6/68296050/spcmgr/download/WeGameMiniLoader.2001619.5.10.17.1742-302001619039.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/35920_48_1719557139.jpg"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 36052,
-          "os_type": 496,
-          "os_bit": 3,
-          "display_name": "剑与远征：启程",
-          "nick_ver": "",
-          "ver_name": "1.3.0.0",
-          "file_size": "17010968",
-          "file_name": "afkjourneycn_06f1cb31ce988bcec5ab6edf1031bf51.exe",
-          "publish_date": "2024-08-08",
-          "download_url": "https://sw.pcmgr.qq.com/be6cb3f08a2bbca44c3aead4bf30b49b/68296050/spcmgr/download/afkjourneycn_06f1cb31ce988bcec5ab6edf1031bf51.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/be6cb3f08a2bbca44c3aead4bf30b49b/68296050/spcmgr/download/afkjourneycn_06f1cb31ce988bcec5ab6edf1031bf51.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/36052_48_1723624554.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 36267,
-          "os_type": 496,
-          "os_bit": 3,
-          "display_name": "逍遥模拟器",
-          "nick_ver": "",
-          "ver_name": "9.2.0.0",
-          "file_size": "18084744",
-          "file_name": "XYAZ-Installer-cha857e309_9.2.0.0.exe",
-          "publish_date": "2025-01-10",
-          "download_url": "https://sw.pcmgr.qq.com/45459971a172ed0b0126fb7cdf437c6d/68296050/spcmgr/download/XYAZ-Installer-cha857e309_9.2.0.0.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/45459971a172ed0b0126fb7cdf437c6d/68296050/spcmgr/download/XYAZ-Installer-cha857e309_9.2.0.0.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/36267_48_1730712579.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 36424,
-          "os_type": 496,
-          "os_bit": 3,
-          "display_name": "biubiu加速器",
-          "nick_ver": "",
-          "ver_name": "1.0.0.2446",
-          "file_size": "106964520",
-          "file_name": "biubiu-installer-100850230.exe",
-          "publish_date": "2025-04-09",
-          "download_url": "https://sw.pcmgr.qq.com/fd46c74297ac88aad73a5436542706cc/68296050/spcmgr/download/biubiu-installer-100850230.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/fd46c74297ac88aad73a5436542706cc/68296050/spcmgr/download/biubiu-installer-100850230.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/36424_48_1733129984.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 36571,
-          "os_type": 496,
-          "os_bit": 2,
-          "display_name": "向日葵远程控制",
-          "nick_ver": "",
-          "ver_name": "15.8.3.19819",
-          "file_size": "66975560",
-          "file_name": "SunloginClient_15.8.3.19819_x64_txguanjia@361.exe",
-          "publish_date": "2025-04-17",
-          "download_url": "https://sw.pcmgr.qq.com/74213cf8e5d9f5cd92f8451b44812831/68296051/spcmgr/download/SunloginClient_15.8.3.19819_x64_txguanjia@361.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/74213cf8e5d9f5cd92f8451b44812831/68296051/spcmgr/download/SunloginClient_15.8.3.19819_x64_txguanjia@361.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/36571_48_1737462668.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 12158,
-          "os_type": 498,
-          "os_bit": 3,
-          "display_name": "Steam",
-          "nick_ver": "",
-          "ver_name": "2.10.91.91",
-          "file_size": "1770744",
-          "file_name": "SteamSetup_0309.exe",
-          "publish_date": "2021-03-03",
-          "download_url": "https://sw.pcmgr.qq.com/e0e91277fe695dcfe0802cf165bbcdbf/68296050/spcmgr/download/SteamSetup_0309.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/e0e91277fe695dcfe0802cf165bbcdbf/68296050/spcmgr/download/SteamSetup_0309.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/12158_48_1589966206.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 23761,
-          "os_type": 506,
-          "os_bit": 3,
-          "display_name": "WeGame（原TGP）",
-          "nick_ver": "",
-          "ver_name": "5.9.5.4191",
-          "file_size": "305974264",
-          "file_name": "WeGameSetup5.9.5.4191_gjwegame_0_0.exe",
-          "publish_date": "2025-04-28",
-          "download_url": "https://sw.pcmgr.qq.com/372f4e0d7eef4bf5be9ae2439e80cd52/68296050/spcmgr/download/WeGameSetup5.9.5.4191_gjwegame_0_0.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/372f4e0d7eef4bf5be9ae2439e80cd52/68296050/spcmgr/download/WeGameSetup5.9.5.4191_gjwegame_0_0.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/23761_48_1637209184.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 33215,
-          "os_type": 496,
-          "os_bit": 3,
-          "display_name": "白蛇传奇",
-          "nick_ver": "",
-          "ver_name": "2.3.0.29",
-          "file_size": "55016008",
-          "file_name": "baishe.exe",
-          "publish_date": "2023-08-15",
-          "download_url": "https://sw.pcmgr.qq.com/c253dba44836cf842c37769ca6de79ca/68296050/spcmgr/download/baishe.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/c253dba44836cf842c37769ca6de79ca/68296050/spcmgr/download/baishe.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/33215_48_1692085604.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 35538,
-          "os_type": 496,
-          "os_bit": 3,
-          "display_name": "全民红月",
-          "nick_ver": "",
-          "ver_name": "10.18.23.457",
-          "file_size": "76387752",
-          "file_name": "zctxrg_hy2wd.exe",
-          "publish_date": "2024-03-18",
-          "download_url": "https://sw.pcmgr.qq.com/9d0a4c347f85e14b8a7f3ca994c9b4b1/68296050/spcmgr/download/zctxrg_hy2wd.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/9d0a4c347f85e14b8a7f3ca994c9b4b1/68296050/spcmgr/download/zctxrg_hy2wd.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/35538_48_1710664677.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 35832,
-          "os_type": 384,
-          "os_bit": 2,
-          "display_name": "人人视频",
-          "nick_ver": "",
-          "ver_name": "1.15.1.1",
-          "file_size": "119504744",
-          "file_name": "RRClientSetup_win_rrsp_sc14_1.15.1.exe",
-          "publish_date": "2025-04-07",
-          "download_url": "https://sw.pcmgr.qq.com/b1dc9339348f61d12bd910c7ca37a2ce/68296051/spcmgr/download/RRClientSetup_win_rrsp_sc14_1.15.1.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/b1dc9339348f61d12bd910c7ca37a2ce/68296051/spcmgr/download/RRClientSetup_win_rrsp_sc14_1.15.1.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/35832_48_1717729851.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 21758,
-          "os_type": 504,
-          "os_bit": 3,
-          "display_name": "奇游电竞加速器",
-          "nick_ver": "",
-          "ver_name": "6.6.28.1720",
-          "file_size": "1898032",
-          "file_name": "QiYouInstaller__20231206_100255_channel1220.exe",
-          "publish_date": "2025-04-03",
-          "download_url": "https://sw.pcmgr.qq.com/dc5c69ddc38e577154e49c1bcc8b5468/68296051/spcmgr/download/QiYouInstaller__20231206_100255_channel1220.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/dc5c69ddc38e577154e49c1bcc8b5468/68296051/spcmgr/download/QiYouInstaller__20231206_100255_channel1220.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/21758_48_1535706480.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 35679,
-          "os_type": 496,
-          "os_bit": 3,
-          "display_name": "战online",
-          "nick_ver": "",
-          "ver_name": "3.13.23.439",
-          "file_size": "78319184",
-          "file_name": "zctxrg_nb1wd.exe",
-          "publish_date": "2024-04-16",
-          "download_url": "https://sw.pcmgr.qq.com/3ae2e1bc767ee816692b9506055b2210/68296051/spcmgr/download/zctxrg_nb1wd.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/3ae2e1bc767ee816692b9506055b2210/68296051/spcmgr/download/zctxrg_nb1wd.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/35679_48_1713256530.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 36523,
-          "os_type": 496,
-          "os_bit": 3,
-          "display_name": "300英雄",
-          "nick_ver": "",
-          "ver_name": "24.12.27.1723",
-          "file_size": "36556028",
-          "file_name": "300battle_MFC_CPS_tx_pcmgr_20241227172318.exe",
-          "publish_date": "2024-12-31",
-          "download_url": "https://sw.pcmgr.qq.com/03de0a46d9c162fbd5865e4b66ed95f0/68296051/spcmgr/download/300battle_MFC_CPS_tx_pcmgr_20241227172318.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/03de0a46d9c162fbd5865e4b66ed95f0/68296051/spcmgr/download/300battle_MFC_CPS_tx_pcmgr_20241227172318.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/36523_48_1735632442.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 22748,
-          "os_type": 506,
-          "os_bit": 3,
-          "display_name": "迅雷12",
-          "nick_ver": "",
-          "ver_name": "12.1.7.2810",
-          "file_size": "184106928",
-          "file_name": "XunLeiSetup12.1.7.2810tencent.exe",
-          "publish_date": "2025-05-08",
-          "download_url": "https://sw.pcmgr.qq.com/6dde84652f9df1faaf9f94754e00ed18/68296051/spcmgr/download/XunLeiSetup12.1.7.2810tencent.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/6dde84652f9df1faaf9f94754e00ed18/68296051/spcmgr/download/XunLeiSetup12.1.7.2810tencent.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/22748_48_1685603207.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 36087,
-          "os_type": 496,
-          "os_bit": 3,
-          "display_name": "CAD迷你看图",
-          "nick_ver": "",
-          "ver_name": "29.8.0.5",
-          "file_size": "54700528",
-          "file_name": "MiniCADSee_tj1_X64.exe",
-          "publish_date": "2024-08-16",
-          "download_url": "https://sw.pcmgr.qq.com/ca23ca38fba45dbc050f57a184555150/68296051/spcmgr/download/MiniCADSee_tj1_X64.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/ca23ca38fba45dbc050f57a184555150/68296051/spcmgr/download/MiniCADSee_tj1_X64.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/26212_48_1578970363.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 36512,
-          "os_type": 400,
-          "os_bit": 2,
-          "display_name": "PDF转换编辑器",
-          "nick_ver": "",
-          "ver_name": "5.14.6.0",
-          "file_size": "124619464",
-          "file_name": "PDFConverter_V5.14.6_Tencent_NewName.exe",
-          "publish_date": "2024-12-24",
-          "download_url": "https://sw.pcmgr.qq.com/4cffd65bb225e5628ffa482aa560e8ba/68296051/spcmgr/download/PDFConverter_V5.14.6_Tencent_NewName.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/4cffd65bb225e5628ffa482aa560e8ba/68296051/spcmgr/download/PDFConverter_V5.14.6_Tencent_NewName.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/36512_48_1735025711.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 35707,
-          "os_type": 496,
-          "os_bit": 3,
-          "display_name": "3DM驱动大师",
-          "nick_ver": "",
-          "ver_name": "2.2.1.30",
-          "file_size": "77726112",
-          "file_name": "3DMDriverMaster_21093_2.2.1.30.exe",
-          "publish_date": "2025-01-21",
-          "download_url": "https://sw.pcmgr.qq.com/5900a007e656fb5eec4883d40ad3b177/68296051/spcmgr/download/3DMDriverMaster_21093_2.2.1.30.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/5900a007e656fb5eec4883d40ad3b177/68296051/spcmgr/download/3DMDriverMaster_21093_2.2.1.30.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/35707_48_1721898490.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 25139,
-          "os_type": 496,
-          "os_bit": 2,
-          "display_name": "哔哩哔哩",
-          "nick_ver": "",
-          "ver_name": "1.16.4",
-          "file_size": "209532600",
-          "file_name": "bilibili-setup-v1.16.4.exe",
-          "publish_date": "2025-04-16",
-          "download_url": "https://sw.pcmgr.qq.com/77bf6e0769c015d8d6e251381c328246/68296051/spcmgr/download/bilibili-setup-v1.16.4.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/77bf6e0769c015d8d6e251381c328246/68296051/spcmgr/download/bilibili-setup-v1.16.4.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/25139_48_1652672836.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 27019,
-          "os_type": 496,
-          "os_bit": 3,
-          "display_name": "腾讯START云游戏",
-          "nick_ver": "",
-          "ver_name": "0.11.0.18214",
-          "file_size": "190116456",
-          "file_name": "START-20240927.exe",
-          "publish_date": "2024-09-29",
-          "download_url": "https://sw.pcmgr.qq.com/503a099188774576fcd782c5926eacc5/68296052/spcmgr/download/START-20240927.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/503a099188774576fcd782c5926eacc5/68296052/spcmgr/download/START-20240927.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/27019_48_1612275414.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 36189,
-          "os_type": 496,
-          "os_bit": 3,
-          "display_name": "小绿鲸英文文献阅读器",
-          "nick_ver": "",
-          "ver_name": "2.4.9.0",
-          "file_size": "143953048",
-          "file_name": "xiaolvjing_downloader_setup_2.4.9.exe",
-          "publish_date": "2025-03-12",
-          "download_url": "https://sw.pcmgr.qq.com/43760e21ac49eb97800e92985686296a/68296052/spcmgr/download/xiaolvjing_downloader_setup_2.4.9.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/43760e21ac49eb97800e92985686296a/68296052/spcmgr/download/xiaolvjing_downloader_setup_2.4.9.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/32083_48_1726124630.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 1202,
-          "os_type": 506,
-          "os_bit": 3,
-          "display_name": "网易有道翻译",
-          "nick_ver": "",
-          "ver_name": "11.2.1.0",
-          "file_size": "116239952",
-          "file_name": "YoudaoDict_fanyiweb_navigation_11.2.1.0.exe",
-          "publish_date": "2025-03-24",
-          "download_url": "https://sw.pcmgr.qq.com/7710e023eeddfdb88d123408d3cbc4be/68296052/spcmgr/download/YoudaoDict_fanyiweb_navigation_11.2.1.0.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/7710e023eeddfdb88d123408d3cbc4be/68296052/spcmgr/download/YoudaoDict_fanyiweb_navigation_11.2.1.0.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/1202_48_1682480311.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 27968,
-          "os_type": 496,
-          "os_bit": 3,
-          "display_name": "可牛PDF",
-          "nick_ver": "",
-          "ver_name": "3.0.0.1",
-          "file_size": "97196344",
-          "file_name": "KNPDF_307_1_3.0.0.1.exe",
-          "publish_date": "2024-07-15",
-          "download_url": "https://sw.pcmgr.qq.com/39c20f8caeead707051b20692aa195be/68296053/spcmgr/download/KNPDF_307_1_3.0.0.1.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/39c20f8caeead707051b20692aa195be/68296053/spcmgr/download/KNPDF_307_1_3.0.0.1.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/27968_48_1718873560.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 351,
-          "os_type": 504,
-          "os_bit": 1,
-          "display_name": "QQ浏览器",
-          "nick_ver": "13.7",
-          "ver_name": "13.7.6352.400",
-          "file_size": "172240504",
-          "file_name": "QQBrowser_Setup_Qqpcmgr_13.7.6352.400.exe",
-          "publish_date": "2025-04-22",
-          "download_url": "https://sw.pcmgr.qq.com/4d210abfe32253823d30d649d48c33b1/68296052/spcmgr/download/QQBrowser_Setup_Qqpcmgr_13.7.6352.400.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/4d210abfe32253823d30d649d48c33b1/68296052/spcmgr/download/QQBrowser_Setup_Qqpcmgr_13.7.6352.400.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/351_48_1390531994.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 36031,
-          "os_type": 496,
-          "os_bit": 3,
-          "display_name": "腾讯文档",
-          "nick_ver": "",
-          "ver_name": "3.9.15",
-          "file_size": "352435408",
-          "file_name": "TencentDocs3.9.15.30026_36031.exe",
-          "publish_date": "2025-05-14",
-          "download_url": "https://sw.pcmgr.qq.com/2859f1b49f206cfea0b82f22cd8db594/68296052/spcmgr/download/TencentDocs3.9.15.30026_36031.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/2859f1b49f206cfea0b82f22cd8db594/68296052/spcmgr/download/TencentDocs3.9.15.30026_36031.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/25147_48_1657616812.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 26353,
-          "os_type": 496,
-          "os_bit": 1,
-          "display_name": "飞书",
-          "nick_ver": "7.43.6",
-          "ver_name": "7.43.0.0",
-          "file_size": "318618912",
-          "file_name": "Feishu-win32_ia32-7.43.6-signed.exe",
-          "publish_date": "2025-05-15",
-          "download_url": "https://sw.pcmgr.qq.com/4613e59e7ae8c67b4d87abb7c633884d/68296052/spcmgr/download/Feishu-win32_ia32-7.43.6-signed.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/4613e59e7ae8c67b4d87abb7c633884d/68296052/spcmgr/download/Feishu-win32_ia32-7.43.6-signed.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/26353_48_1638428667.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 36072,
-          "os_type": 496,
-          "os_bit": 3,
-          "display_name": "Office 365",
-          "nick_ver": "",
-          "ver_name": "4.3.5.10",
-          "file_size": "5973352",
-          "file_name": "MicrosoftOffice_InstallationComponent_PC001_txrg(1).exe",
-          "publish_date": "2024-09-26",
-          "download_url": "https://sw.pcmgr.qq.com/ea02bee5a7065c22db72faea8c889137/68296052/spcmgr/download/MicrosoftOffice_InstallationComponent_PC001_txrg(1).exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/ea02bee5a7065c22db72faea8c889137/68296052/spcmgr/download/MicrosoftOffice_InstallationComponent_PC001_txrg(1).exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/36072_48_1723538261.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 504,
-          "os_type": 506,
-          "os_bit": 3,
-          "display_name": "Adobe Flash Player",
-          "nick_ver": "",
-          "ver_name": "34.0.0.211",
-          "file_size": "23920384",
-          "file_name": "install_flash_player_offline_ax_cn_34.0.0.211_tx.exe",
-          "publish_date": "2021-12-15",
-          "download_url": "https://sw.pcmgr.qq.com/087378c405e7f73a5bf91622ba2a9b0e/68296052/spcmgr/download/install_flash_player_offline_ax_cn_34.0.0.211_tx.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/087378c405e7f73a5bf91622ba2a9b0e/68296052/spcmgr/download/install_flash_player_offline_ax_cn_34.0.0.211_tx.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/504_48_1433919181.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 116,
-          "os_type": 496,
-          "os_bit": 3,
-          "display_name": "YY语音",
-          "nick_ver": "",
-          "ver_name": "9.42.0.0",
-          "file_size": "138042344",
-          "file_name": "YYSetup-9.42.0.0-zh-CN.exe",
-          "publish_date": "2025-04-27",
-          "download_url": "https://sw.pcmgr.qq.com/b882556534d62928e833d739135f362a/68296052/spcmgr/download/YYSetup-9.42.0.0-zh-CN.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/b882556534d62928e833d739135f362a/68296052/spcmgr/download/YYSetup-9.42.0.0-zh-CN.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/116_48_1709197438.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 2685,
-          "os_type": 506,
-          "os_bit": 2,
-          "display_name": "7-Zip",
-          "nick_ver": "",
-          "ver_name": "24.9.0.0",
-          "file_size": "1637343",
-          "file_name": "7z2409-x64.exe",
-          "publish_date": "2024-12-03",
-          "download_url": "https://sw.pcmgr.qq.com/7e155fcb3e88508a70657034f6e62703/68296053/spcmgr/download/7z2409-x64.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/7e155fcb3e88508a70657034f6e62703/68296053/spcmgr/download/7z2409-x64.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/2685_48_1456478802.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 202,
-          "os_type": 506,
-          "os_bit": 3,
-          "display_name": "搜狗五笔输入法",
-          "nick_ver": "",
-          "ver_name": "5.5.0.2580",
-          "file_size": "42677008",
-          "file_name": "202-110817-sogou_wubi_5.5.0.2580_9003.exe",
-          "publish_date": "2022-05-17",
-          "download_url": "https://sw.pcmgr.qq.com/036c88bb91a12bc9868441c2ec09bab7/68296053/spcmgr/download/202-110817-sogou_wubi_5.5.0.2580_9003.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/036c88bb91a12bc9868441c2ec09bab7/68296053/spcmgr/download/202-110817-sogou_wubi_5.5.0.2580_9003.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/202_48_1601345915.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 302,
-          "os_type": 384,
-          "os_bit": 3,
-          "display_name": "谷歌浏览器 开发版",
-          "nick_ver": " 32位",
-          "ver_name": "137.0.7117.2",
-          "file_size": "109411184",
-          "file_name": "137.0.7117.2_chrome_installer.exe",
-          "publish_date": "2025-05-06",
-          "download_url": "https://sw.pcmgr.qq.com/dd42b1dcda0b556f174729e374543627/68296053/spcmgr/download/137.0.7117.2_chrome_installer.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/dd42b1dcda0b556f174729e374543627/68296053/spcmgr/download/137.0.7117.2_chrome_installer.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/302_48_1450768888.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 24034,
-          "os_type": 496,
-          "os_bit": 3,
-          "display_name": "斗鱼直播",
-          "nick_ver": "",
-          "ver_name": "8.9.2.0",
-          "file_size": "130088840",
-          "file_name": "DouyuLive_8.9.2.0_Server_1.1.1.4.exe",
-          "publish_date": "2025-04-15",
-          "download_url": "https://sw.pcmgr.qq.com/a3882cdecb60a878132d4ca00e70387c/68296053/spcmgr/download/DouyuLive_8.9.2.0_Server_1.1.1.4.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/a3882cdecb60a878132d4ca00e70387c/68296053/spcmgr/download/DouyuLive_8.9.2.0_Server_1.1.1.4.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/24034_48_1515486359.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 22089,
-          "os_type": 384,
-          "os_bit": 2,
-          "display_name": "谷歌浏览器 开发版",
-          "nick_ver": "",
-          "ver_name": "137.0.7117.2",
-          "file_size": "122326384",
-          "file_name": "137.0.7117.2_chrome_installer-win64.exe",
-          "publish_date": "2025-05-06",
-          "download_url": "https://sw.pcmgr.qq.com/9f8b662c37c7a09f93042a465d6de05c/68296053/spcmgr/download/137.0.7117.2_chrome_installer-win64.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/9f8b662c37c7a09f93042a465d6de05c/68296053/spcmgr/download/137.0.7117.2_chrome_installer-win64.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/22089_48_1450768901.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 1841,
-          "os_type": 506,
-          "os_bit": 3,
-          "display_name": "电脑管家",
-          "nick_ver": " 15",
-          "ver_name": "15.4.22893.220",
-          "file_size": "66020928",
-          "file_name": "PCMgr_Setup_15_4_22893_220.exe",
-          "publish_date": "2022-09-13",
-          "download_url": "https://sw.pcmgr.qq.com/71adf2c10ea11330bb7c4b548e3a9744/68296053/spcmgr/download/202401/PCMgr_Setup_15_4_22893_220.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/71adf2c10ea11330bb7c4b548e3a9744/68296053/spcmgr/download/202401/PCMgr_Setup_15_4_22893_220.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/1841_48_1470904061.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 35807,
-          "os_type": 496,
-          "os_bit": 3,
-          "display_name": "PDF阅读转换器",
-          "nick_ver": "",
-          "ver_name": "6024.5.21.0003",
-          "file_size": "80576776",
-          "file_name": "pdfreadercvt_inst_2100_6_0_0.exe",
-          "publish_date": "2024-05-22",
-          "download_url": "https://sw.pcmgr.qq.com/357360f3ca20a5ee535cd163f7099b3d/68296053/spcmgr/download/pdfreadercvt_inst_2100_6_0_0.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/357360f3ca20a5ee535cd163f7099b3d/68296053/spcmgr/download/pdfreadercvt_inst_2100_6_0_0.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/35807_48_1716370874.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 120169,
-          "os_type": 506,
-          "os_bit": 3,
-          "display_name": "爱思助手",
-          "nick_ver": "",
-          "ver_name": "8.36.016",
-          "file_size": "230243536",
-          "file_name": "i4Tools8_v8.36.016_Setup_x86_700012.exe",
-          "publish_date": "2025-04-10",
-          "download_url": "https://sw.pcmgr.qq.com/91d9ea696e98d9dd6fa2e27281dddf6b/68296054/spcmgr/download/i4Tools8_v8.36.016_Setup_x86_700012.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/91d9ea696e98d9dd6fa2e27281dddf6b/68296054/spcmgr/download/i4Tools8_v8.36.016_Setup_x86_700012.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/120169_48_1690514437.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 35175,
-          "os_type": 496,
-          "os_bit": 3,
-          "display_name": "驱动专家",
-          "nick_ver": "",
-          "ver_name": "5024.03.18.0018",
-          "file_size": "79191960",
-          "file_name": "drvmaster_inst_2100_4_0_0(1).exe",
-          "publish_date": "2024-03-20",
-          "download_url": "https://sw.pcmgr.qq.com/fb3e2bcb12eeeb531fbd3269240250ed/68296054/spcmgr/download/drvmaster_inst_2100_4_0_0(1).exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/fb3e2bcb12eeeb531fbd3269240250ed/68296054/spcmgr/download/drvmaster_inst_2100_4_0_0(1).exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/35175_48_1706515183.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 35527,
-          "os_type": 496,
-          "os_bit": 3,
-          "display_name": "海豚加速器",
-          "nick_ver": "",
-          "ver_name": "6.2.7.547",
-          "file_size": "68534168",
-          "file_name": "DolphinInstaller__20240206_183545_channel86.exe",
-          "publish_date": "2024-03-11",
-          "download_url": "https://sw.pcmgr.qq.com/c32ab555dd97bfa34802f18dcc07dadd/68296053/spcmgr/download/DolphinInstaller__20240206_183545_channel86.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/c32ab555dd97bfa34802f18dcc07dadd/68296053/spcmgr/download/DolphinInstaller__20240206_183545_channel86.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/35527_48_1710147595.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 34006,
-          "os_type": 498,
-          "os_bit": 3,
-          "display_name": "从军",
-          "nick_ver": "",
-          "ver_name": "1.0.3.66",
-          "file_size": "77979088",
-          "file_name": "cj-Setup-20230920-wd-TXRG.exe",
-          "publish_date": "2023-09-27",
-          "download_url": "https://sw.pcmgr.qq.com/f7c2e04de851b65617f4e1b4be816ef3/68296054/spcmgr/download/cj-Setup-20230920-wd-TXRG.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/f7c2e04de851b65617f4e1b4be816ef3/68296054/spcmgr/download/cj-Setup-20230920-wd-TXRG.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/34006_48_1695804645.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 26476,
-          "os_type": 506,
-          "os_bit": 3,
-          "display_name": "Adobe Flash Player 非IE版 - PPAPI",
-          "nick_ver": "",
-          "ver_name": "34.0.0.211",
-          "file_size": "13068544",
-          "file_name": "install_flash_player_offline_ppapi_cn_34.0.0.211_tx.exe",
-          "publish_date": "2021-12-15",
-          "download_url": "https://sw.pcmgr.qq.com/87483a590814ce95aa7a009b8c916716/68296054/spcmgr/download/install_flash_player_offline_ppapi_cn_34.0.0.211_tx.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/87483a590814ce95aa7a009b8c916716/68296054/spcmgr/download/install_flash_player_offline_ppapi_cn_34.0.0.211_tx.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/26476_48_1592362774.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 6953,
-          "os_type": 506,
-          "os_bit": 3,
-          "display_name": "网易UU加速器",
-          "nick_ver": "",
-          "ver_name": "5.46.1.415",
-          "file_size": "68125624",
-          "file_name": "UU-5.46.1.exe",
-          "publish_date": "2025-05-13",
-          "download_url": "https://sw.pcmgr.qq.com/502cedf46ddd79b921dda7b119bd9494/68296054/spcmgr/download/UU-5.46.1.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/502cedf46ddd79b921dda7b119bd9494/68296054/spcmgr/download/UU-5.46.1.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/6953_48_1463709724.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 12094,
-          "os_type": 496,
-          "os_bit": 2,
-          "display_name": "Internet Explorer 10",
-          "nick_ver": " ",
-          "ver_name": "10.0.9200.16521",
-          "file_size": "45211160",
-          "file_name": "12094-110819-IE10-Windows6.1-x64-zh-cn_10.0.exe",
-          "publish_date": "2013-02-26",
-          "download_url": "https://sw.pcmgr.qq.com/510eebf1b09bad08415908009693e8bb/68296054/spcmgr/download/12094-110819-IE10-Windows6.1-x64-zh-cn_10.0.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/510eebf1b09bad08415908009693e8bb/68296054/spcmgr/download/12094-110819-IE10-Windows6.1-x64-zh-cn_10.0.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/iexplore10_48x48.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 13407,
-          "os_type": 400,
-          "os_bit": 3,
-          "display_name": "WPS Office",
-          "nick_ver": "",
-          "ver_name": "12.1.0.20305",
-          "file_size": "262705304",
-          "file_name": "W.P.S.50.517_12.1.0.20784_13407.exe",
-          "publish_date": "2025-04-10",
-          "download_url": "https://sw.pcmgr.qq.com/36c7fc9820c3356d5787fe3638f0b755/68296054/spcmgr/download/W.P.S.50.517_12.1.0.20784_13407.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/36c7fc9820c3356d5787fe3638f0b755/68296054/spcmgr/download/W.P.S.50.517_12.1.0.20784_13407.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/13407_48_1650273326.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 21435,
-          "os_type": 506,
-          "os_bit": 3,
-          "display_name": "迅捷PDF转换器",
-          "nick_ver": "",
-          "ver_name": "9.1.2.6",
-          "file_size": "146405144",
-          "file_name": "setup_xjpdfzhq_txgj _9.1.2.6.exe",
-          "publish_date": "2023-05-30",
-          "download_url": "https://sw.pcmgr.qq.com/7b1ecaff224434d3fd99c1feaaee19c2/68296054/spcmgr/download/setup_xjpdfzhq_txgj%20_9.1.2.6.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/7b1ecaff224434d3fd99c1feaaee19c2/68296054/spcmgr/download/setup_xjpdfzhq_txgj%20_9.1.2.6.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/21435_48_1562141518.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 24251,
-          "os_type": 496,
-          "os_bit": 3,
-          "display_name": "腾讯课堂",
-          "nick_ver": "",
-          "ver_name": "4.6.1.2",
-          "file_size": "98155192",
-          "file_name": "EduInstall_4.6.1.2_10193.exe",
-          "publish_date": "2023-07-19",
-          "download_url": "https://sw.pcmgr.qq.com/bcbc10a93658e27437b1ab44f955b161/68296054/spcmgr/download/EduInstall_4.6.1.2_10193.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/bcbc10a93658e27437b1ab44f955b161/68296054/spcmgr/download/EduInstall_4.6.1.2_10193.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/24251_48_1521450176.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 24688,
-          "os_type": 506,
-          "os_bit": 3,
-          "display_name": "腾讯魔镜壁纸",
-          "nick_ver": "",
-          "ver_name": "3.3.1525.127",
-          "file_size": "37981352",
-          "file_name": "DeskGo_3_3_1525_127_full_wallpaper_S15002.exe",
-          "publish_date": "2025-04-14",
-          "download_url": "https://sw.pcmgr.qq.com/16459fd4e75eb65b903aa6cb3fe007d6/68296054/spcmgr/download/DeskGo_3_3_1525_127_full_wallpaper_S15002.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/16459fd4e75eb65b903aa6cb3fe007d6/68296054/spcmgr/download/DeskGo_3_3_1525_127_full_wallpaper_S15002.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/24688_48_1717059730.ico"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 26127,
-          "os_type": 506,
-          "os_bit": 3,
-          "display_name": "欢乐斗地主（QQ游戏版）",
-          "nick_ver": "",
-          "ver_name": "8.025",
-          "file_size": "1536960",
-          "file_name": "HLDDZ_1001010047_micro.exe",
-          "publish_date": "2024-01-04",
-          "download_url": "https://sw.pcmgr.qq.com/9d8c15f131006248780004da2bb9b6f4/68296054/spcmgr/download/HLDDZ_1001010047_micro.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/9d8c15f131006248780004da2bb9b6f4/68296054/spcmgr/download/HLDDZ_1001010047_micro.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/26127_48_1698994829.png"
-        }
-      ],
-      "retCode": 0
-    }
-  },
-  {
-    "resp": {
-      "soft_list": [
-        {
-          "soft_id": 33329,
-          "os_type": 496,
-          "os_bit": 3,
-          "display_name": "三角洲行动",
-          "nick_ver": "",
-          "ver_name": "1.0.0.1",
-          "file_size": "6678120",
-          "file_name": "WeGameMiniLoader.2001918.5.9.23.1101.exe",
-          "publish_date": "2025-04-29",
-          "download_url": "https://sw.pcmgr.qq.com/78491bd3d49b9d87e2c4e448217796f8/68296055/spcmgr/download/WeGameMiniLoader.2001918.5.9.23.1101.exe",
-          "download_https_url": "https://sw.pcmgr.qq.com/78491bd3d49b9d87e2c4e448217796f8/68296055/spcmgr/download/WeGameMiniLoader.2001918.5.9.23.1101.exe",
-          "Logo48File": "//pc3.gtimg.com/softmgr/logo/48/33329_48_1727057024.png"
         }
       ],
       "retCode": 0
