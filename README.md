@@ -5,25 +5,30 @@
 
 ### 功能说明
 
-- 批量抓取腾讯软件管家开放API的主列表数据
+- 批量抓取腾讯软件管家API的主列表数据
 - 获取并调用接口获取每个软件的详细信息
 - 结果分别保存为 `data/data.json` 和 `data/exedata.json`
 
 ### 主要脚本
+- [`core`](core/)
+    - [`main.py`](main.py)
+        1. 并发抓取主列表（`getSoftList`接口）
+        2. 并发POST下载接口（`softwareProxy`接口）
+        3. 结果写入本地JSON文件
+- [`modules`](modules/)
+    - [`modules/smartSearch.py`](modules/smartSearch.py)
+        1. 内容网页端搜索框，提示词，官方接口
+        2. [提示词接口预览]
+        `https://luban.m.qq.com/api/public/software-manager/searchcgi?type=smart&callback=_cb&keyword=wei`
+    - [`modules/get_index_list.py`](modules/get_index_list.py)
+        1. 获取pc.qq.com主页list内容函数
 
-- [`main.py`](main.py)
-    - 并发抓取主列表（`getSoftList`接口）
-    - 并发POST下载接口（`softwareProxy`接口）
-    - 结果写入本地JSON文件
-
-- [`godonload.py`](godonload.py)
-    - 单个软件POST接口测试
-
-- [`def/smartSearch.py`](def/smartSearch.py)
-    - 智能搜索接口测试
-
-- [`x.txt`](x.txt)
-    - 接口返回结构样例与参数说明
+    - [`modules/get_download_url.py`](modules/get_download_url.py)
+        1. 根据sid获取下载直连
+        2. [直连接口预览]
+        `https://luban.m.qq.com/api/public/software-manager/softwareProxy`
+    - [`x.txt`](x.txt)
+        1. 接口返回结构样例与参数说明
 
 ### 快速开始
 
@@ -45,8 +50,7 @@
 
 ## 参考
 
-- 腾讯软件管家API接口分析
-- pygame官方文档
+- edge F12
 
 ---
 
