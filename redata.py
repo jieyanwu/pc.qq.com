@@ -3,8 +3,8 @@ from modules.get_download_url import download
 import json
 
 # 获取主数据（例如 offset=0）
-main_data = fetch_data(999)
-
+main_data = fetch_data(offset=13990)
+print(f"主数据条目数: {len(main_data)}")
 def get_all_download_info(main_data):
     """
     根据 main_data 中的 soft_id 获取所有下载信息

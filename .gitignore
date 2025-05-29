@@ -46,4 +46,5 @@ ENV/
 *.sqlitedb
 
 # Temporary files
+db_config.py
 *~
