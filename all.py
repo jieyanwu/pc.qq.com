@@ -2,7 +2,7 @@ import json
 from core.crawler import run_crawler
 
 # 执行爬虫获取数据
-s = run_crawler(mode=2, num=15882, workers=9999)
+s = run_crawler(mode=2, num=500, workers=9999)
 main_data = s['main_data']
 download_results = s['download_data']
 
